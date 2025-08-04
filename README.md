@@ -47,3 +47,15 @@ To create an interactive and dynamic Power BI dashboard using the AdventureWorks
 |------------------------|------------------------------------|
 | `AdventureWorks1.pbix`  | Main Power BI report              |
 | `README.md`            | Project description                |    
+
+
+## 📬 Connect with Me
+
+- 🔗 [LinkedIn](http://www.linkedin.com/in/ms-belayet-14123b82)
+- 📧 adiba.du.bd@gmail.com
+
+
+## 📌 Future Improvements (working on it)
+
+- Add forecasting with Power BI's analytics pane
+- Integrate with R or Python scripts
